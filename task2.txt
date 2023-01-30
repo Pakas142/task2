@@ -1,4 +1,4 @@
-reated 10 directories
+Created 10 directories
 mkdir guvi{1..10}
 Created 10 files
 touch welcome{1..10}.txt
